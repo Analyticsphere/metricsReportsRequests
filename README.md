@@ -1,7 +1,7 @@
 ## metricsReportsRequests
 Used to provide issue tracking for changes and additions to the Connect Metrics reporting.
 
-#Metrics Request Template
+Metrics Request Template
 
 Please specify the following fields when making an issue request to the analytics team for new metrics or changes to current metrics. 
 
