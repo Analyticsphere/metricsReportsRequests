@@ -2,19 +2,14 @@
 
 Metrics Request Template
 
-Please specify the following fields when submitting an issue request to the analytics team for new metrics or changes to current metrics. 
-
-Date:
+Please specify the following fields and assign an analytics team member when submitting request to the analytics team for new metrics or changes to current metrics. If in doubt as to who to assign, please reach out to Nicole Gerlanc.
 
 Requestor(s):
 
 Table or Figure title:
 
 Metrics to be updated or created:  
-a.	Consolidated Operation Weekly Metrics
-b.	Biospecimen Metrics
-c.	Survey Metrics
-d.	Other
+e.g., Consolidated Operation Weekly Metrics, Biospecimen Metrics, Survey Metrics, or specify if new 
 
 Variables needed (include variable name and Concept ID):
 
@@ -26,4 +21,4 @@ Notes:
 
 Approved by: 
 
-Respond/performed by: 
+
