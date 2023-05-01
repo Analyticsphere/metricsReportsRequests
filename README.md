@@ -2,7 +2,7 @@
 
 Metrics Request Template
 
-Please specify the following fields when making an issue request to the analytics team for new metrics or changes to current metrics. 
+Please specify the following fields when submitting an issue request to the analytics team for new metrics or changes to current metrics. 
 
 Date:
 
